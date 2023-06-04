@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Vivaha / Marriage Ceremony",
+        "description": "In Vedic culture, the wedding ceremony is considered to be one of the most sacred and beautiful samskaras, where the couple commit to a lifetime of togetherness in their duties, growth, pleasure and spiritual unfoldment.",
+        "image": "./s1.jpg"
+    },
+    {
+        "name": "Namakarana / Naming Ceremony",
+        "description": "Traditionally done anytime between the 6th and 40th day after birth, the child’s name is selected based on an initial in accordance with Vedic astrology to aid their growth and development to be in harmony with the cosmos.",
+        "image": "./s2.jpg"
+    },
+    {
+        "name": "Mundana / Baby's First Haircut",
+        "description": "Done to remove any impressions of the past life that may hinder their growth and development, the child’s head is shaved in the 1st, 3rd or 5th year",
+        "image": "./s3.jpg"
+    },
+    {
+        "name": "Nishkramanam / Baby's First Day Out",
+        "description": "The blessings of the sun, moon and all external forces of nature are invoked and the child is taken out of the house for the first time, to visit the Deity in the temple. While traditionally done in the 3rd month, it can be done anytime once the child is healthy enough.",
+        "image": "./s4.jpg"
+    },
+    {
+        "name": "Annaprashanam / Baby's First Grains",
+        "description": "To introduce solid foods and all six tastes to the child, the ceremony is observed and the blessings of the Divine in the form of the digestive fire are invoked. Traditionally done any time from the 6th month onwards.",
+        "image": "./s5.png"
+    },
+    {
+        "name": "Vidyarambham / Beginning Education",
+        "description": "Invoking the blessings of Devi Saraswati and Bhagavan Hayagriva, the child is initiated into learning through this ceremony. Usually done before the child begins kindergarten.",
+        "image": "./s6.jpg"
+    },
+    {
+        "name": "Upanayanam / Sacred Thread Ceremony",
+        "description": "Known by many names: Janya, Poonool, Yagyopavit or Brahmopadesam, the Upanayanam marks the bestowal of personal and spiritual responsibility, with the initiate being awarded a sacred thread to be worn and taught the Gayatri Mantra which is to be chanted morning, noon and sunset.",
+        "image": "./s7.jpg"
+    }
+]

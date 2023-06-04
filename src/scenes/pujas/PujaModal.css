@@ -1,0 +1,19 @@
+.puja__modal {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.puja__image {
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.puja__title {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+

@@ -1,0 +1,50 @@
+.modal {
+    width: clamp(50%, 700px, 90%);
+    height: auto;
+    width: 60%;
+    padding: 2rem 2rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal__gradient {
+    background-color: #C3e7ee;
+    opacity: 50%;
+}
+
+.modalContainer {
+    background-color: #c3e7ee;
+    text-align: center;
+    color: #000723;
+    letter-spacing: 1px;
+}
+
+.modalContainer > h3 {
+    font-size: 24px;
+    margin-bottom: 2rem;
+    font-weight: 700;
+}
+
+.modalContainer > p {
+    font-size: 14px;
+}
+
+.modal__button {
+    margin: 2rem 0 1rem;
+    width: max-content;
+    display: inline-block;
+    color: #000723;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid #E8836E;
+    transition: all 300ms ease;
+    background-color: #E8836E;
+}
+
+.modal__button:hover {
+    background: #c3e7ee;
+    border: 1px solid #e8836e;
+}
