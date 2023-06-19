@@ -28,7 +28,10 @@ const Pujas = ({setSelectedPage}: Props) => {
                 </p>
             </motion.div>
             {/*content */}
-            <motion.div className="w-4/6 grid grid-cols-3 mx-auto gap-[6rem] mt-[6rem]">
+            <motion.div className=
+                // "grid grid-cols-3 mx-auto gap-[6rem] mt-[6rem]"
+                "mx-auto flex flex-col gap-[4rem] mt-[4rem] sm:grid sm:grid-cols-2 xl:grid-cols-3" 
+            >
                 {data.map((item) => {
                     return <PujaModal key={item.id} {...item}/>
                 })}

@@ -1,50 +1,56 @@
 [
     {
         "id": 1,
-        "name": "Sarasvati Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p1.jpg"
+        "name": "Saraswati Puja & Havan",
+        "description": "Saraswati is the goddess of learning and the arts. Invoking her grace is important prior to the commencement of education and the undertaking of a new art form. The pujs is done for children prior to their first day of school or university, or on Vijayadashami/Dussehra day",
+        "image":"./p1a.jpg"
     },
     {
         "id": 2,
-        "name": "Bhumi Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p2.jpg"
+        "name": "Ayushya Havan",
+        "description": "This lesser known yet impactful Vedic Birthday ceremony invokes blessings for a healthy and prosperous year ahead.",
+        "image":"./p2a.jpg"
     },
     {
         "id": 3,
-        "name": "Grha Pravesa & Vastu Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p1.jpg"
+        "name": "Grhapravesham",
+        "description": "Traditionally performed the day of moving in, this ceremony seeks to purify and establish stability and growth in one’s living space.",
+        "image":"./p3a.jpg"
     },
     {
         "id": 4,
-        "name": "Sudarshana Puja & Homa",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p4.jpg"
+        "name": "Sudarshana Puja & Havan",
+        "description": "Narasimha is the fourth incarnation of Vishnu and the protector of His devotees. Along with Sudarshana, the divine discus of Vishnu, He is invoked to remove any negative forces, evil eye or influence of invisible entities or curses.",
+        "image":"./p4a.jpg"
     },
     {
         "id": 5,
-        "name": "Hayagriva Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p5.jpg"
+        "name": "Aikyamatya Suktam Havan",
+        "description": "This ceremony is one the most ancient ways to celebrate marriage anniversaries and invoke harmony and love in relationships. Mantras from the last part of the Rg Veda are chanted and offerings are made asking for unity in mind and heart.",
+        "image":"./p5a.jpg"
     },
     {
         "id": 6,
-        "name": "Narasimha Puja & Homa",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p6.jpg"
+        "name": "Ganapati Puja & Havan",
+        "description": "Ganesha is known as the remover of all obstacles. Often done at the beginning of new ventures or prior to the start of any major life event, this puja is done to clear any internal and external roadblocks to success.",
+        "image":"./p6a.jpg"
     },
     {
         "id": 7,
-        "name": "Navagraha Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p7.jpg"
+        "name": "Navagraha Puja & Havan",
+        "description": "The Nava-grahas are the nine celestial planets in Vedic Astrology that govern various aspects of our personality and karma. Commonly done as a pre-wedding ceremony, this puja invokes the benevolent aspects of the grahas to re-establish alignment in oneself.",
+        "image":"./p7a.jpg"
     },
     {
         "id": 8,
-        "name": "Laksmi-Narayana Puja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "image":"./p8.jpg"
+        "name": "Dhanvantari Puja & Havan",
+        "description": "Dhanvantari is the divine physician from whom we received the science of Ayurveda. This ceremony invokes His grace to relieve one from any health-related issues and prepare for any future treatments/procedures to be undergone.",
+        "image":"./p8a.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Satyanarayana Katha",
+        "description": "During this puja, the pastimes of Lord Vishnu and his devotees are heard and reflected upon. The glory of this puja is given in detail in the Skanda Purana, which states that the recitation of these pastimes with full faith fulfils all desires in the world here and hereafter. This puja is usually performed on a full moon day (Purnima), but can be done any other time as well.",
+        "image": "./p9a.jpg"
     }
 ]

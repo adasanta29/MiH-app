@@ -26,8 +26,8 @@ const ContactUs = ({setSelectedPage}: Props) => {
     }
 
   return (
-    <section id="contactus" className="w-5/6 pt-24 pb-32 mx-auto">
-        <motion.div onViewportEnter={() => setSelectedPage(SelectedPage.ContactUs)}>
+    <section id="contactus" className="w-full py-40 mx-auto bg-primary-100">
+        <motion.div onViewportEnter={() => setSelectedPage(SelectedPage.ContactUs)} className="w-5/6 mx-auto">
 
             {/* HEADER */}
             <motion.div
@@ -36,7 +36,7 @@ const ContactUs = ({setSelectedPage}: Props) => {
                 <HText>
                     <span className="text-green-500">REACH OUT</span> TO CHAT OR INQUIRE
                 </HText>
-                <p className="my-5">
+                <p className="my-5 text-sm">
                     Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
                     sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
                     adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
@@ -130,7 +130,7 @@ const ContactUs = ({setSelectedPage}: Props) => {
                     className="relative mt-16 basis-2/5 md:mt-0"
                     initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.5 }} transition={{ duration: 0.5, delay: 0.2 }} variants={{ hidden: {opacity: 0, y: -50}, visible: {opacity: 1, y: 0}}}
                 >
-                    <img src={Hanish} alt="" className="rounded-md sm2:w-[80%]"/>
+                    <img src={Hanish} alt="" className="rounded-md w-[80%]"/>
                 </motion.div>
 
             </div>

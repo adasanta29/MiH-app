@@ -36,7 +36,7 @@ const SliderButtons = () => {
     const swiper = useSwiper();
 
     return (
-        <div className='flex justify-center gap-4 md:mt-8 xs:mt-2 mb-1'>
+        <div className='flex justify-center gap-4 xs:mt-2 mb-1'>
             <motion.button onClick={() => swiper.slidePrev()}
                 className='text-xl py-[0.2rem] px-[0.8rem] border-none rounded-md bg-white cursor-pointer shadow-[0_0_5px_1px_rgba(0,0,0,0.25)]'
                 whileHover={{scale: 1.1}}

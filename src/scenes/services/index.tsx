@@ -39,7 +39,7 @@ type Props = {
 const Services = ({setSelectedPage}: Props) => {
   return (
     <section id='services'
-        className='mx-auto min-h-auto w-5/6 py-20' /* original = py-20 */
+        className='mx-auto min-h-auto w-5/6 py-40' /* original = py-20 */
     >
 
         <motion.div

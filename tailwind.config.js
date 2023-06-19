@@ -29,7 +29,7 @@ export default {
       xs: "480px",
       sm: "768px",
       md: "1060px",
-      sm2: {'max': '1059px'},
+      xl: "1280px",
     }
   },
   plugins: [],
