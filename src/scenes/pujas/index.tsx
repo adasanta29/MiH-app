@@ -26,6 +26,7 @@ const Pujas = ({setSelectedPage}: Props) => {
                 <p className="my-5 text-sm">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                 </p>
+                <p className="text-xs">Click to view more</p>
             </motion.div>
             {/*content */}
             <motion.div className=

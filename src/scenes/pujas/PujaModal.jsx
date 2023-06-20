@@ -13,13 +13,17 @@ const PujaModal = ({name, image, description}) => {
     <div className="puja__modal">
         <motion.div className='puja__modal-container'>
             <h2 className='puja__title'>{name}</h2>
-            <motion.button
+            <figure>
+                <img src={image} alt=""/>
+                <figcaption>{description}</figcaption>
+            </figure>
+            {/* <motion.button
                 className='puja__modal-button'
                 whileTap={{scale: 0.9}}
                 onClick={() => (modal ? setModal(false) : setModal(true))}
             >
                 <img src={image} alt="" className='puja__image'/>
-            </motion.button>
+            </motion.button> */}
 
             <AnimatePresence initial={false}>
                 {modal && <Modal isOpen={modal} handleClose={() => {setModal(false)}} title={name} paragraph={description}/>}

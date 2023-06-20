@@ -22,3 +22,38 @@
     font-size: 1rem; /*1.2rem*/ 
     font-weight: 700;
 }
+
+.puja__modal-container figure {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: 1s transform;
+    font-size: 0.9rem;
+}
+
+.puja__modal-container figure img {
+    width: 100%;
+    border-radius: 10px;
+    height: 340px;
+}
+
+.puja__modal-container figure figcaption {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    transform: rotateY(.5turn) translateZ(1px);
+    text-align: center;
+    background: white;
+    padding-top: 5%;
+    opacity: 0.6;
+    transition: 1s .5s opacity;
+    line-height: 1.5rem;
+}
+
+.puja__modal-container:hover figure {
+    transform: rotateY(.5turn);
+}
+
+.puja__modal-container:hover figure figcaption {
+    opacity: 1;
+}
